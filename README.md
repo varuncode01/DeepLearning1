@@ -1,1 +1,1 @@
-This repo if for ideathon's codes and files
+This repo is for ideathon's codes and files
